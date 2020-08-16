@@ -1,0 +1,13 @@
+{
+  "credentials":{
+    "aws_access_key_id" : "AKIAI2K2JRDDO5QSHTTQ",
+    "aws_secret_access_key" : "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",
+      "region_name" : "us-east-1"
+  },
+  "bucket":{
+    "s3BucketName" :"findtable"
+  },
+  "output":{
+    "outputFileName" : "output.csv"
+  }
+}
