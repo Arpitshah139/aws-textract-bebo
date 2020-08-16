@@ -151,6 +151,6 @@ class Textract(object):
 
 
 if __name__ == "__main__":
-    file_name = "/home/ravin/wilson invoice.pdf"
+    file_name = sys.argv[1]
     obj = Textract(file_name)
     obj.textract_main()
